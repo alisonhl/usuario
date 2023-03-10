@@ -1,0 +1,42 @@
+p{
+	color: black;
+	font-size: 14pt;
+}
+h1{
+	color: black;
+	text-align: center;
+	font-size: 18pt;
+}
+
+h2{
+	color: pink;
+	text-align: center;
+	font-size: 16pt;
+}
+
+body{
+	background-image: url('https://img.freepik.com/vector-premium/fondo-color-pastel-violeta-suave-azul-fresco_1962-1398.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	color: #FFFFFF;
+}
+a{
+	text-decoration: none;
+}
+font{
+	color: pink;
+}
+.datos{
+	position: relative;
+	display: flex;
+	width: 100%;
+	gap: 40PX;
+}
+.content{
+	position: relative;
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	gap: 40PX;
+}
